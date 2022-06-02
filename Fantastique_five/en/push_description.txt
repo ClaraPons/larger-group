@@ -1,0 +1,11 @@
+A/ Once our file(s) is(are) ready, we have to send it(them) into the "repository" in order for everyone to be up to date.
+
+B/ To do so, you have to go into your terminal and follow the next 3 steps:
+
+1- git add "file to send" (that creates an index into the folder)
+2- git commit -m "text" (that describes what is this send)
+3- git push (that send this new file and/or updated file)
+
+C/ That's sent, the other project's team members can now download them (pull)
+
+D/ Benoit recommands us to check the status ("git status" inside the command line) after each step in the B in order to be sure that everything is OK.

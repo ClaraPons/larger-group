@@ -1,0 +1,10 @@
+A/ Une fois que l'on a fini son(ses) fichier(s), on doit l'envoyer sur le "repository" afin que chacun puisse être à jour.
+
+B/ Pour se faire, il faut aller dans son terminal et suivre les 3 étapes suivantes :
+1- git add "fichier à envoyer" (cela crée un index dans le dossier)
+2- git commit -m "texte" (cela décrit ce qu'est cet envoi)
+3- git push (cela envoie dans le projet GitHub le nouveau fichier et/ou le fichier à jour)
+
+C/ C'est envoyé, les autres membres du projet peuvent désormais les télécharger (pull)
+
+D/ Benoit nous recommande de vérifier le status ("git status" dans la ligne de commande) après chaque étape du B afin de contrôler que tout se passe bien.
