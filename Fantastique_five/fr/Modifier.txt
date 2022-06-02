@@ -1,0 +1,8 @@
+--> clone/pull le projet
+
+
+-->Trouver ce que tu veut enlever/modifier/rajouter
+
+--> Modifier ce que tu fait
+
+--> passe à l'étape de push
