@@ -1,0 +1,4 @@
+to clone a group project:
+
+you have to go to the project in github then at the top left click on the "CODE" tab
+and copy the url at the top right then go to the terminal then meter the "git clone" and paste it.
