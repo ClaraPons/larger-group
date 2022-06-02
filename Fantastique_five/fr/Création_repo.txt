@@ -1,0 +1,6 @@
+etape 1 : aller sur son profil GitHub
+etape 2 : cliquer sur l'onglet "repositories"
+etape 3 : cliquer sur "new"
+etape 4 : choisir un nom dans "repository name"
+etape 5 : creer le repo en cliquant sur "create repository" (en bas de la page)
+etape 6 : aller sur le terminal et suivre les etapes 2 "clone"
