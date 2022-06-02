@@ -1,0 +1,7 @@
+ Pull stage:
+
+This step consists in recovering the whole code to avoid the conflict that remains, when my adventure partners recover the file.
+The conflict is between the instant or there is a modification of the file on Github by the first person who has pushed this file. 
+
+To remember : 
+It is advised to start with Git pull at the very beginning of code manipulation.

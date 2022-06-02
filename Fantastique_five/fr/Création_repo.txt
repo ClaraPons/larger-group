@@ -1,0 +1,7 @@
+ Etape pull:
+
+Cette étape consiste a récupérer l’ensemble du code pour éviter le conflit qui subsiste, des lors que mes partenaires d’aventure récupèrent le fichier.
+Le conflit est entre l’instant ou ya une modification du fichier sur Github par la première personne qui a push ce fichier. 
+
+A retenir : 
+Il est conseillé de débuter avec des Git pull en tout début de manipulation de code.
